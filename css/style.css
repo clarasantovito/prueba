@@ -25,3 +25,14 @@
     justify-content: space-evenly;
     margin-top: 50px;
 }
+
+.carousel-container .carousel {
+    margin-top: 50px;
+    width: 100%;
+}
+
+.carousel-container .carousel img {
+    height: 500px;
+    object-fit: cover;
+}
+
